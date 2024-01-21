@@ -19,11 +19,11 @@ YAML fue diseñado para ser más humano-legible, lo que significa que es más f�
   
 ## JSON
 ### Que es JSON ?
-JSON (JavaScript Object Notation) es un formato ligero de intercambio de datos que es fácilmente legible por humanos y fácilmente procesable por máquinas.
+JSON **(JavaScript Object Notation)** es un formato ligero de intercambio de datos que es fácilmente legible por humanos y fácilmente procesable por máquinas.
 Se ha vuelto un estándar para el intercambio de datos en aplicaciones web y es independiente del lenguaje de programación.
 JSON se originó como una extensión de la notación de objetos de JavaScript, pero actualmente es ampliamente utilizado en diversos entornos 
 ### Quien creo JNON ?
-Fue creado por el estadounidense Brendam Eich en 2001
+Fue creado por el estadounidense *Brendam Eich* en 2001
 ### Por que crearon JSON ?
 Surgio como alternativa a XML
 ### Características clave de JSON:
