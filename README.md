@@ -18,7 +18,7 @@ YAML fue diseñado para ser más humano-legible, lo que significa que es más f�
 - **Comentarios:** Se pueden incluir comentarios en archivos YAML para documentar y explicar la estructura y el propósito de los datos.
 - 
 ## JSON
-**Que es YAML ?**
+**Que es JSON ?**
 JSON (JavaScript Object Notation) es un formato ligero de intercambio de datos que es fácilmente legible por humanos y fácilmente procesable por máquinas.
 Se ha vuelto un estándar para el intercambio de datos en aplicaciones web y es independiente del lenguaje de programación.
 JSON se originó como una extensión de la notación de objetos de JavaScript, pero actualmente es ampliamente utilizado en diversos entornos 
