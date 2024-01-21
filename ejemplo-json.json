@@ -1,0 +1,21 @@
+
+    {
+    "instituto": "sant vicent ferrer",
+    "localidad" : "algemessi",
+    "ciudad" : "valencia",
+    "codigo postal" : 46680,
+    "direccion" : "calle parc del salvador castell, 16" ,
+    "telefono" : 962457820,
+    "curso" : {
+        "daw" : {
+            "asignaturas" : {
+                "lenguaje de marcas" : {
+                    "profesor/ra" : "laura vilar bohigues",
+                    "email profesor/ra" : "l.vilarbohigues@edu.gva.es"
+                }
+            }
+        }
+
+    }
+        
+    }
